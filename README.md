@@ -1,4 +1,4 @@
-# aula07
+# aula07 gcm 
 Respostas GCM
 1.O gerenciamento de configuração é o processo para estabelecer e manter a consistência dos atributos físicos, funcionais e de performance de um produto durante sua vida, de acordo com seus requisitos, desenho e informações operacionais.
 2. Especificação do sistema, Requisitos, código fonte, manuais operacionais, programa executável, descrição de banco de dados , manual do usuário, teste de software\sistema, especificação do projeto.
